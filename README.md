@@ -36,8 +36,8 @@ A fully **offline**, **privacy-first** Retrieval-Augmented Generation (RAG) appl
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/llmrag-local.git
-cd llmrag-local
+git clone https://github.com/arunkatika/llm-rag-semantic-cache.git
+cd llm-rag-semantic-cache
 ```
 
 ### 2. Install dependencies
