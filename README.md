@@ -5,6 +5,7 @@ A fully **offline**, **privacy-first** Retrieval-Augmented Generation (RAG) appl
 > 🔐 No cloud. No API keys. 100% local inference & vector search.
 
 ---
+![Thumbnail](https://github.com/user-attachments/assets/0af67786-9871-4fcb-84ba-513f9899ab9c)
 
 ## 📌 Features
 
